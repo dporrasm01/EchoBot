@@ -12,16 +12,6 @@ Proyecto educativo de introducción al desarrollo de bots de Telegram utilizando
 - Python 3.8+
 - Librería python-telegram-bot
 
-## Configuración
-1. Clonar el repositorio
-2. Crear entorno virtual
-3. Instalar dependencias: `pip install -r requirements.txt`
-4. Crear un archivo `config.py` con el token del bot:
-   ```python
-   BOT_TOKEN = "tu_token_de_bot_aqui"
-   ```
-   **Importante:** Añadir `config.py` al `.gitignore`
-
 ## Ejecución
 ```bash
 python bot.py
@@ -32,3 +22,8 @@ python bot.py
 - Practicar programación con Python
 - Entender la interacción con APIs de mensajería
 - Implementar buenas prácticas de seguridad con credenciales
+
+## Guía de uso para el bot:
+1. Busca al usuario @Dporrasbot
+2. Inicia el bot con /start
+3. Ahora el bot repitirá todo lo que le digas.
